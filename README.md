@@ -27,7 +27,7 @@ Binary Classification, Python, EDA, Statistical Significance
 
 - **`submission_workspace/`**: Folder containing the codebase, dataset, reference documents, and other project-related files.
 - **`churn_analysis_workspace.ipynb`**: Main Jupyter Notebook for analysis, quick insights, and detailed end-to-end process flow of the project.
-- **`churn_analysis_case_deck_final.pdf`**: Slideshow meeting business case requirements, exported in PDF format.
+- **`churn_analysis_case_deck_final.pdf`**: Pitch deck (Slideshow) meeting business case requirements, exported in PDF format.
 - **Other Files**: Reference documents and exported datasets relevant to the project.
 
 ## About the Dataset
