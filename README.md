@@ -12,7 +12,7 @@ Customer churn prediction is crucial for business management in sectors like tel
 
 ### Key Questions
 
-1. **What is the significance of Churn Rate for stakeholders (Customers, MCI, etc.)?**
+1. **What is the significance of Churn Rate for stakeholders (Customers, business owners, partners etc.)?**
 2. **What are the characteristics of each Type of Customer (Churn or Not Churn)?**
 3. **Which ML models can be implemented and how do they perform?** Including feature inputs and importance.
 4. **What qualitative and quantitative actions could enhance retention rates?**
@@ -30,7 +30,7 @@ Binary Classification, Python, EDA, Statistical Significance
 - **`churn_analysis_case_deck_final.pdf`**: Pitch deck (Slideshow) meeting business case requirements, exported in PDF format.
 - **Other Files**: Reference documents and exported datasets relevant to the project.
 
-## About the Dataset
+## About the Original Dataset
 
 - **State**: Two-letter code representing the customer's residence.
 - **Account length**: Number of days with the current telecom provider.
