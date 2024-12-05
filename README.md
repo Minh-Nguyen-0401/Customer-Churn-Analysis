@@ -130,6 +130,8 @@ After refining features during Feature Engineering, this section outlines the st
 ---
 
 **UPDATED**: Stacking Ensemble Model with top 3 base models (CatBoostClassifier, XGBoostClassifier, LGBMClassifier) generated relatively BETTER results
+<br>
+
 /rarr: resort to **`ensemble model.ipynb`** for more details
 
 ---
