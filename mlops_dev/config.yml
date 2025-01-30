@@ -1,0 +1,52 @@
+data:
+  test_path: D:\Study\RESUME\MCI\Customer Churn Analysis\datasets\dataset1_20.csv
+  train_path: D:\Study\RESUME\MCI\Customer Churn Analysis\datasets\dataset1_80.csv
+feature_selection:
+  use_iv_score: true
+  use_vif: false
+model:
+  hyperparameter_space:
+    colsample_bytree:
+    - 0.8
+    - 1
+    criterion: roc_auc
+    learning_rate:
+    - 0.01
+    - 0.1
+    max_depth:
+    - 3
+    - 7
+    min_child_weight:
+    - 1
+    - 5
+    n_estimators:
+    - 100
+    - 200
+    random_state: 42
+    reg_alpha:
+    - 0
+    - 1
+    reg_lambda:
+    - 0
+    - 1
+    subsample:
+    - 0.8
+    - 1
+    verbose: -100
+  name: LGBMClassifier
+  params:
+    model__colsample_bytree: 0.9624791976714727
+    model__criterion: roc_auc
+    model__learning_rate: 0.03963209931138201
+    model__max_depth: 6
+    model__min_child_weight: 3
+    model__n_estimators: 110
+    model__random_state: 42
+    model__reg_alpha: 0.8726303533099421
+    model__reg_lambda: 0.9119288615068837
+    model__scale_pos_weight: 5.871134020618556
+    model__subsample: 0.8683191484205274
+    model__verbose: -100
+    verbose: -100
+  store_path: models/
+  viz_path: eval_viz/

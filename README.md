@@ -25,8 +25,10 @@ Binary Classification, Python, EDA, Statistical Significance
 
 ## Project Structure
 
+- (UPDATED) **`mlops_dev/`**: Directory for MLOps development process (**modularization**) and deployment.
+
 - **`submission_workspace/`**: Folder containing the codebase, dataset, reference documents, and other project-related files.
-- **`churn_analysis_workspace.ipynb`**: Main Jupyter Notebook for analysis, quick insights, and detailed end-to-end process flow of the project.
+- **`churn_analysis_workspace.ipynb`**: Main Jupyter Notebook for experimenting with the analysis, quick insights, and detailed end-to-end process flow of the project all in one place.
 - **`churn_analysis_case_deck_final.pdf`**: Pitch deck (Slideshow) meeting business case requirements, exported in PDF format.
 - **Other Files**: Reference documents and exported datasets relevant to the project.
 
@@ -54,7 +56,7 @@ Binary Classification, Python, EDA, Statistical Significance
 - **Churn**: Indicates if the customer has churned (Yes/No).
 
 
-## Workflow Outline
+## Workflow Outline - Experimentation w/ notebook
 
 ### 1. Introduction
 |___ 1.1 Problem Statement  
