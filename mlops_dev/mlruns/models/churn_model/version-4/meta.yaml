@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738324413030
+current_stage: None
+description: null
+last_updated_timestamp: 1738324413030
+name: churn_model
+run_id: 7b3bf55ec5644ed89f1530b3adbe4065
+run_link: null
+source: file:///D:/Study/RESUME/MCI/Customer%20Churn%20Analysis/mlops_dev/mlruns/424806757307942156/7b3bf55ec5644ed89f1530b3adbe4065/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///D:/Study/RESUME/MCI/Customer%20Churn%20Analysis/mlops_dev/mlruns/424806757307942156/7b3bf55ec5644ed89f1530b3adbe4065/artifacts/model
+user_id: null
+version: 4

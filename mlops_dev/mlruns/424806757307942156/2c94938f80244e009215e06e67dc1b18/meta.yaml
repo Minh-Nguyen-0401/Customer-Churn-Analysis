@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Study/RESUME/MCI/Customer%20Churn%20Analysis/mlops_dev/mlruns/424806757307942156/2c94938f80244e009215e06e67dc1b18/artifacts
+end_time: 1738299723920
+entry_point_name: ''
+experiment_id: '424806757307942156'
+lifecycle_stage: active
+run_id: 2c94938f80244e009215e06e67dc1b18
+run_name: sneaky-pug-351
+run_uuid: 2c94938f80244e009215e06e67dc1b18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738299710870
+status: 3
+tags: []
+user_id: ACER
